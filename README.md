@@ -1,11 +1,13 @@
 # futuresimplefab
 Implements futuresimple floating action buttons :
 
-1) Simple Fab
+1) Simple Fab and Add Fab
 
-2) Add Fab
+![Demo](images/simple_and_add_fab.gif)
 
-3) Menu Fab
+2) Menu Fab
+
+![Demo](images/menu_fab.gif)
 
 # Credits
 https://github.com/futuresimple/android-floating-action-button
